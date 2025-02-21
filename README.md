@@ -6,6 +6,7 @@ The data parameters for monitoring critical pharmaceutical shipments are as foll
 
 Temperature Range: Must remain between 15°C to 25°C.
 Alert through the HTML page if the flight is behind schedule and/or the temperature is reporting outside the range.
+
 Sample Data Files: Example Device 1, Example Device 2, and Example Device 3
 Each file includes the starting point and destination point for the shipment. Contains unique latitude and longitude coordinates, temperature readings (°C), and timestamps.
 
