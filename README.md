@@ -11,7 +11,8 @@ Sample Data Files: Example Device 1, Example Device 2, and Example Device 3
 Each file includes the starting point and destination point for the shipment. Contains unique latitude and longitude coordinates, temperature readings (°C), and timestamps.
 
 ## Solution
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ljW_T06eSg" frameborder="0" allowfullscreen></iframe>
+
+### Youtube Demo of Dashboard: https://www.youtube.com/watch?v=6ljW_T06eSg
 
 The web application enables to visualize shipment tracking data with temperature monitoring capabilities. Users upload excel files containing location coordinates and temperature readings, then choose between two visualization options: a map view that plots shipment locations with color-coded temperature indicators (green for the optimal 15-25°C range, red for alerts),  a time-series chart displaying temperature fluctuations over the journey with clear visual indicators of when readings fall outside the acceptable range. 
 
